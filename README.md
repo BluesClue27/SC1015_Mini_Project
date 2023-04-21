@@ -34,9 +34,9 @@ Our code shows our raw data set, cleaned data set, exploratory data analysis, re
 - Random forest regression from sklearn
 
 ## Contributors
-- Randy Tan Yu Hong - Exploratory Data Analysis
-- Jabez Chok Ke Xin - Ridge Regression
-- Riya Milan Mehta - Random Forest Regression
+- @BluesClue27 - Exploratory Data Analysis
+- @Alexareas - Ridge Regression
+- @RMM108 - Random Forest Regression
 
 ## References
 - https://www.kaggle.com/datasets/equilibriumm/sleep-efficiency
