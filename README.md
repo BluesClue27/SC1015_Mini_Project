@@ -15,10 +15,10 @@ Our mini project uses the Sleep Efficiency Dataset from Kaggle:
 [Sleep Efficiency Dataset]https://www.kaggle.com/datasets/equilibriumm/sleep-efficiency
 
 ## Libraries/Algorithms
-- pandas
-- seaborn
-- matplotlib
-- sklearn
+- Pandas
+- Seaborn
+- Matplotlib
+- Sklearn
 - Ridge Regression
 - Random Forest Regression
 
@@ -38,3 +38,12 @@ Our code shows our raw data set, cleaned data set, exploratory data analysis, re
 - Jabez Chok Ke Xin - Ridge Regression
 - Riya Milan Mehta - Random Forest Regression
 
+## References
+- https://www.kaggle.com/datasets/equilibriumm/sleep-efficiency
+- https://www.datacamp.com/tutorial/tutorial-lasso-ridge-regression?
+- https://www.datacamp.com/tutorial/random-forests-classifier-python?
+- https://www.mygreatlearning.com/blog/what-is-ridge-regression/
+- https://summer.harvard.edu/blog/why-you-should-make-a-good-nights-sleep-a-priority/ 
+- https://levelup.gitconnected.com/random-forest-regression-209c0f354c84
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4434546/
+- https://www.cdc.gov/sleep/about_sleep/how_much_sleep.html
