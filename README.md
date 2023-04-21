@@ -40,8 +40,8 @@ Our code shows our raw data set, cleaned data set, exploratory data analysis, re
 
 ## References
 - https://www.kaggle.com/datasets/equilibriumm/sleep-efficiency
-- https://www.datacamp.com/tutorial/tutorial-lasso-ridge-regression?
-- https://www.datacamp.com/tutorial/random-forests-classifier-python?
+- https://www.datacamp.com/tutorial/tutorial-lasso-ridge-regression
+- https://www.datacamp.com/tutorial/random-forests-classifier-python
 - https://www.mygreatlearning.com/blog/what-is-ridge-regression/
 - https://summer.harvard.edu/blog/why-you-should-make-a-good-nights-sleep-a-priority/ 
 - https://levelup.gitconnected.com/random-forest-regression-209c0f354c84
